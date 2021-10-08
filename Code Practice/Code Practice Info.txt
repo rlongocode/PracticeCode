@@ -1,0 +1,10 @@
+/******************************************************************************************************************
+
+	Hello,	
+
+	Here is a folder of some of my code challenges from websites such as Edabit,
+	I decided to keep a record of them for future references asides other things.
+
+
+
+*****************************************************************************************************************/
